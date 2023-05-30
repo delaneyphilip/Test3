@@ -1,12 +1,6 @@
-# This is a hello field
-rws_field1="Hallo"
-# This is a some content field
-rws_field2="Hier sind einige Inhalte"
-# This is an additional content drop down menu
-rws_field3="Hier sind einige zusätzliche Inhalte"
-# This is a friday smiley
-rws_field4="Friday is my favorite day of the week, by far"
-# Some days context here
-rws_field5="Es gibt % Tage in einer Woche"
-# Some monthly context here
-rws_field6="There are % months in a year. Did you know that?"
+# hello field
+rws_more1="Hallo"
+# some text field
+rws_more2="Here is some funny text"
+# some more text field
+rws_more3="Hier ist noch mehr Text"
