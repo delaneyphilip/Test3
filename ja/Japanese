@@ -1,12 +1,6 @@
-# This is a hello field
-rws_field1="こんにちは"
-# This is a some content field
-rws_field2="ここにいくつかの内容があります"
-# This is an additional content drop down menu
-rws_field3="ここにいくつかの追加コンテンツがあります"
-# This is a friday smiley
-rws_field4="Friday is my favorite day of the week, by far"
-# Some days context here
-rws_field5="1週間に%の日数があります"
-# Some monthly context here
-rws_field6="There are % months in a year. Did you know that?"
+# hello field
+rws_more1="こんにちは"
+# some text field
+rws_more2="Here is some funny text"
+# some more text field
+rws_more3="ここにもう少しテキストがあります"
