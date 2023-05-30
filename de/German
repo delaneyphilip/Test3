@@ -1,8 +1,6 @@
 # hello field
-rws_philip1="Hallo Zusammen"
+rws_extra1="Hallo"
 # some text field
-rws_philip2="Hier ist ein furchtbarer Text für die Übersetzung"
+rws_extra2="Hier ist ein schöner Text"
 # some more text field
-rws_philip3="Hier ist noch ein extrem geistreicher Text"
-# some more funny text field
-rws_philip4="Hier ist ein lustiger Text"
+rws_extra3="Hier ist noch mehr Text"
