@@ -1,6 +1,8 @@
 # hello field
-rws_more1="Hello Everyone Again\!"
+rws_philip1="皆さん、こんにちは。"
 # some text field
-rws_more2="Here is some nice text"
+rws_philip2="これは翻訳のためのひどいテキストです"
 # some more text field
-rws_more3="Here is some more extremely witty text"
+rws_philip3="ここにもっと機知に富んだテキストがあります"
+# some more funny text field
+rws_philip4="これが面白いテキストです"
