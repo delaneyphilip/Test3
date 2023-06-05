@@ -1,8 +1,6 @@
 # hello field
-rws_content1="Hello"
+rws_extra1="Bonjour"
 # some text field
-rws_content2="Here is some awful text for translation"
+rws_extra2="Voici un texte sympa"
 # some more text field
-rws_content3="Here is some more extremely witty text"
-# some more funny text field
-rws_content4="Here is some funny text"
+rws_extra3="Voici quelques autres textes"
